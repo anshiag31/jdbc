@@ -7,4 +7,7 @@ it should display the message “Connection could  not be established “.
  the exception.*/
 import java.util.*;
 public class JDBC_Q1 {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
